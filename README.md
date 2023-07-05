@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @AliSalahElbadry
-- 👀 I’m interested in Mobile Application Development , AI and Machine Learning 
-- 🌱 I’m currently learning Mobile Applications in Information Technology Institute Egypt Smart Village
+- 👋 Hi, I’m @AliSalahElbadry Software Engineer
+- 👀 I’m currently looking for a new role as a mobile developer
+- 🌱 I’m interested in Mobile Application Development, AI, and Machine Learning
+- 🌱 I studied Mobile Applications at Information Technology Institute Egypt Smart Village
+- 🌱  I studied Computer science at Asyut University FCI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  https://www.linkedin.com/in/ali-salah-elbadry-fahmy-a28683184/ , AliSalahElbadryFahmy@gmail.com
 
