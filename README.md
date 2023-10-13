@@ -4,7 +4,7 @@
 - 🌱 I studied Mobile Applications development at Information Technology Institute Egypt Smart Village
 - 🌱  I studied Computer science at Asyut University FCI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  https://www.linkedin.com/in/ali-salah-elbadry-fahmy-a28683184/ , AliSalahElbadryFahmy@gmail.com
+- 📫 How to reach me  https://www.linkedin.com/in/ali-salah-elbadry-fahmy/ , AliSalahElbadryFahmy@gmail.com
 
 <!---
 AliSalahElbadry/AliSalahElbadry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
