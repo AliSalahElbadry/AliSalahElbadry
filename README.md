@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AliSalahElbadry Software Engineer
-- 👀 I’m currently looking for a new role as a mobile developer
+- 👀 I'm Mobile Android Developer with experience in java,kotlin,Android sdk , flutter cross plaltform
+-  I’m currently working at Asgatech Mobile Development Internship
 - 🌱 I’m interested in Mobile Application Development, AI, and Machine Learning
-- 🌱 I studied Mobile Applications development at Information Technology Institute Egypt Smart Village
+- 🌱 I studied Mobile Applications development at the Information Technology Institute Egypt Smart Village
 - 🌱  I studied Computer science at Asyut University FCI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  https://www.linkedin.com/in/ali-salah-elbadry-fahmy/ , AliSalahElbadryFahmy@gmail.com
