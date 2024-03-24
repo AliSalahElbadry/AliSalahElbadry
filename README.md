@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliSalahElbadry Software Engineer
 - 👀 I'm Mobile Android Developer with experience in java,kotlin,Android sdk , flutter cross plaltform
--  I’m currently working at Asgatech Mobile Development Internship
+-  I’m currently working at Asgatech Company 
 - 🌱 I’m interested in Mobile Application Development, AI, and Machine Learning
 - 🌱 I studied Mobile Applications development at the Information Technology Institute Egypt Smart Village
 - 🌱  I studied Computer science at Asyut University FCI
