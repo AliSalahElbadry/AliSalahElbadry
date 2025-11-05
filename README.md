@@ -48,7 +48,7 @@
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,android,java,kotlin,flutter,Dart,swift,tensorflow,cs,Unity,postman,swagger,git&perline=7" style="height:113px;"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,android,java,kotlin,flutter,swift,tensorflow,cs,postman,swagger,git&perline=7" style="height:113px;"/>
   </p>
 
 ### 🏆 GitHub Trophies
