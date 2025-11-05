@@ -31,7 +31,7 @@
   <p align="left">
     <a href="AliSalahElbadryFahmy@gmail.com">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
-    <a href="https://www.linkedin.com/in/ali-salah-elbadry-fahmy/">
+    <a href="https://www.linkedin.com/in/ali-salah-elbadry-fahmy">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
     <a href="">
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a> &nbsp;
