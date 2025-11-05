@@ -59,8 +59,8 @@
 <br>
 
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliSalahElbadry&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+    <img src="https://streak-stats.demolab.com/?user=AliSalahElbadry&theme=highcontrast" height="125"/>
   </p>
 
 ![Snake Animation](https://github.com/AliSalahElbadry/git_output/blob/main/snake.svg)
